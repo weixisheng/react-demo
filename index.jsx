@@ -7,8 +7,8 @@ import Search from './app/components/search_1.jsx';
 import Header from './app/components/header_1.jsx'; 
 import Otherapp from './app/components/otherapp_1.jsx'; 
 import Spike from './app/components/spike_1.jsx'; 
-import More from './app/components/more.jsx'; 
-import Like from './app/components/like.jsx'; 
+import More from './app/components/more_1.jsx'; 
+import Like from './app/components/like_1.jsx'; 
 
 ReactDOM.render(
 	<div>

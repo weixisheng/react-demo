@@ -31,7 +31,7 @@
 	line-height: 14px;
 	color: #333;
 	padding-bottom: 5px;
-	border-bottom: 1px solid #E5E6E6;
+	
 }
 
 .like_desc span {
@@ -44,6 +44,7 @@
 
 .like_price {
 	margin: 4px 0 16px 0;
+	border-bottom: 1px solid #E5E6E6;
 }
 
 .like_price span {
